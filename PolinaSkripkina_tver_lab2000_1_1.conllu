@@ -1,0 +1,295 @@
+# time_begin = 0:57
+
+lab@
+
+# sent_id = 27
+# text = ээ я короче закончила / школу / седьмую / одиннадцать классов
+1	ээ	ээ	INTJ	_	_	_	_	_	_
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+3	короче короче	INTJ	_	_	_	_	_	_
+4	закончила	закончить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	школу	школа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	седьмую	седьмой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+9	/	/	PUNCT	_	_	_	_	_	_
+10	одиннадцать	одиннадцать	NUM	_	Case=Acc	_	_	_	_
+11	классов	класс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\r\n\r\n
+
+lab@
+
+# sent_id = 29
+# text = я очень любила свою школу / я очень любила своих одноклассников я очень не хотела оттуда уходить и
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+2	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+3	любила	любить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+4	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+5	школу	школа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+8	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+9	любила	любить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+10	своих	свой	DET	_	Case=Acc|Number=Plur	_	_	_	_
+11	одноклассников	одноклассник	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	_	_	_	_
+12	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+13	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+14	не	не	PART	_	_	_	_	_	_
+15	хотела	хотеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+16	оттуда	оттуда	ADV	_	Degree=Pos	_	_	_	_
+17	уходить	уходить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+18	и	и	CCONJ	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+lab@
+
+# sent_id = 31
+# text = ммм там была просто такая атмосфера
+1	ммм	мм	INTJ	_	_	_	_	_	_
+2	там	там	ADV	_	Degree=Pos	_	_	_	_
+3	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+4	просто	просто	PART	_	_	_	_	_	_
+5	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+6	атмосфера	атмосфера	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+
+lab@
+
+# sent_id = 33
+# text = которая мне очень нравилась и которой сейчас мне очень не хватает
+1	которая	который	PRON	_	Case=Nom	_	_	_	_
+2	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+3	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+4	нравилась	нравиться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+5	и	и	CCONJ	_	_	_	_	_	_
+6	которой	который	PRON	_	Case=Gen|Number=Sing	_	_	_
+7	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	_
+8	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+9	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+10	не	не	PART	_	_	_	_	_	_
+11	хватает	хватать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n\r\n
+
+lab@
+
+# sent_id = 35
+# text = ээ там были все мои друзья [смеётся] ээ / у меня считай...
+1	ээ	ээ	INTJ	_	_	_	_	_	_
+2	там	там	ADV	_	Degree=Pos	_	_	_	_
+3	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+4	все	весь	DET	_	Case=Nom|Number=Plur	_	_	_	_
+5	мои	мой	DET	_	Case=Nom|Number=Plur	_	_	_	_
+6	друзья	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+7	[	[	PUNCT	_	_	_	_	_	SpaceAfter=No
+8	смеётся	смеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	SpaceAfter=No
+9	]	]	PUNCT	_	_	_	_	_	_
+10	ээ	ээ	INTJ	_	_	_	_	_	_
+11	/	/	PUNCT	_	_	_	_	_	_
+12	у	у	ADP	_	_	_	_	_	_
+13	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+14	считай	считай	INTJ	_	_	_	_	_	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+lab@
+
+# sent_id = 37
+# text = у меня было очень много как бы таких знакомых-друзей друзей-знакомых но вот прям настоящие друзья все были сосредоточены в моём классе
+1	у	у	ADP	_	_	_	_	_	_
+2	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+3	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+4	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+5	много	много	ADV	_	Degree=Pos	_	_	_	_
+6	как	как	ADV	_	Degree=Pos	_	_	_	_
+7	бы	бы	PART	_	_	_	_	_	_
+8	таких	такой	DET	_	Case=Gen|Number=Plur	_	_	_	_
+9	знакомых	знакомый	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+10	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
+11	друзей	друг	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+12	друзей	друг	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+13	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
+14	знакомых	знакомый	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+15	но	но	CCONJ	_	_	_	_	_	_
+16	вот	вот	PART	_	_	_	_	_	_
+17	прям	прям	PART	_	_	_	_	_	_
+18	настоящие	настоящий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+19	друзья	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+20	все	весь	DET	_	Case=Nom|Number=Plur	_	_	_	_
+21	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+22	сосредоточены	сосредоточить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	_	_	_	_
+23	в	в	ADP	_	_	_	_	_	_
+24	моём	мой	PRON	_	Case=Loc|Number=Sing|Gender=Masc	_	_
+25	классе	класс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+
+lab@
+
+# sent_id = 39
+# text = мне вот так повезло то что / я приходила в школу даже / если я не хотела идти в школу там / я просто понимала то что там мои друзья мне есть что там делать / мне будет там интересно и будет весело
+1	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+2	вот	вот	PART	_	_	_	_	_	_
+3	так	так	ADV	_	Degree=Pos	_	_	_	_
+4	повезло	повезти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+5	то	то	SCONJ	_	_	_	_	_	_
+6	что	что	PRON	_	Case=Nom	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+9	приходила	приходить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+10	в	в	ADP	_	_	_	_	_	_
+11	школу	школа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+12	даже	даже	PART	_	_	_	_	_	_
+13	/	/	PUNCT	_	_	_	_	_	_
+14	если	если	SCONJ	_	_	_	_	_	_
+15	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+16	не	не	PART	_	_	_	_	_	_
+17	хотела	хотеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+18	идти	идти	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+19	в	в	ADP	_	_	_	_	_	_
+20	школу	школа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+21	там	там	ADV	_	Degree=Pos	_	_	_	_
+22	/	/	PUNCT	_	_	_	_	_	_
+23	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+24	просто	просто	PART	_	_	_	_	_	_
+25	понимала	понимать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+26	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+27	что	что	SCONJ	_	_	_	_	_	_
+28	там	там	ADV	_	Degree=Pos	_	_	_	_
+29	мои	мой	DET	_	Case=Nom|Number=Plur	_	_	_	_
+30	друзья	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+31	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+32	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+33	что	что	PRON	_	Case=Acc	_	_	_	_
+34	там	там	ADV	_	Degree=Pos	_	_	_	_
+35	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+36	/	/	PUNCT	_	_	_	_	_	_
+37	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+38	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	_
+39	там	там	ADV	_	Degree=Pos	_	_	_	_
+40	интересно	интересно	ADV	_	Degree=Pos	_	_	_	_
+41	и	и	CCONJ	_	_	_	_	_	_
+42	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	_
+43	весело	весело	ADV	_	Degree=Pos	_	_	_	_	SpacesAfter=\r\n\r\n
+
+lab@
+
+# sent_id = 41
+# text = а когда я пропускала в школу по каким-то причинам / я такая блин мне придется пропустить / школу / я не увижу своих друзей а я что-то пропущу что там...
+1	а	а	CCONJ	_	_	_	_	_	_
+2	когда	когда	SCONJ	_	_	_	_	_	_
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+4	пропускала	пропускать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+5	в	в	ADP	_	_	_	_	_	_
+6	школу	школа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+7	по	по	ADP	_	_	_	_	_	_
+8	каким-то	какой-то	DET	_	Case=Dat|Number=Plur	_	_	_	_
+9	причинам	причина	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+12	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+13	блин	блин	INTJ	_	_	_	_	_	_
+14	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+15	придется	прийтись	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	_	_	_	_
+16	пропустить	пропустить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+17	/	/	PUNCT	_	_	_	_	_	_
+18	школу	школа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+19	/	/	PUNCT	_	_	_	_	_	_
+20	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+21	не	не	PART	_	_	_	_	_	_
+22	увижу	увидеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+23	своих	свой	DET	_	Case=Acc|Number=Plur	_	_	_	_
+24	друзей	друг	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	_	_	_	_
+25	а	а	CCONJ	_	_	_	_	_	_
+26	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+27	что-то	что-то	PRON	_	Case=Acc	_	_	_	_
+28	пропущу	пропустить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	_
+29	что	что	PRON	_	Case=Nom	_	_	_	_
+30	там	там	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+lab@
+
+# sent_id = 43
+# text = я потом буду не в центре событий что-то...
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+2	потом	потом	ADV	_	Degree=Pos	_	_	_	_
+3	буду	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	_
+4	не	не	PART	_	_	_	_	_	_
+5	в	в	ADP	_	_	_	_	_	_
+6	центре	центр	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+7	событий	событие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	_	_	_	_
+8	что-то	что-то	PRON	_	Case=Acc	_	_	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+lab@
+
+# sent_id = 45
+# text = я поэтому [нрзб]
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+2	поэтому	поэтому	ADV	_	Degree=Pos	_	_	_	_
+3	[нрзб]	[нрзб]	X	_	_	_	_	_	SpaceAfter=No
+
+lab@
+
+# sent_id = 47
+# text = я первые уроки прогуливала [нрзб] а потом уже всё равно шла потому что мне было интересно / что там как там
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+2	первые	первый	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	_	_	_	_
+3	уроки	урок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	_	_	_
+4	прогуливала	прогуливать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+5	[нрзб]	[нрзб]	X	_	_	_	_	_	SpaceAfter=No
+6	а	а	CCONJ	_	_	_	_	_	_
+7	потом	потом	ADV	_	Degree=Pos	_	_	_	_
+8	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+9	всё	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+10	равно	равно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	_
+11	шла	идти	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+12	потому	потому	ADV	_	Degree=Pos	_	_	_	_
+13	что	что	SCONJ	_	_	_	_	_	_
+14	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+15	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+16	интересно	интересно	ADV	_	Degree=Pos	_	_	_	_
+17	/	/	PUNCT	_	_	_	_	_	_
+18	что	что	SCONJ	_	_	_	_	_	_
+19	там	там	ADV	_	Degree=Pos	_	_	_	_
+20	как	как	SCONJ	_	_	_	_	_	_
+21	там	там	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n\r\n
+
+lab@
+
+# sent_id = 49
+# text = потому что / каждый день в школе это был / какой-то / определённый
+1	потому	потому	ADV	_	Degree=Pos	_	_	_	_
+2	что	что	SCONJ	_	_	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	каждый	каждый	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+5	день	день	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+6	в	в	ADP	_	_	_	_	_	_
+7	школе	школа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+9	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	какой-то	какой-то	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+12	/	/	PUNCT	_	_	_	_	_	_
+13	определённый	определённый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+
+lab@
+
+# sent_id = 51
+# text = мм
+1	мм	мм	INTJ	_	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+lab@
+
+# sent_id = 53
+# text = этап жизни даже можно сказать / всегда было что вспомнить
+1	этап	этап	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+2	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+3	даже	даже	PART	_	_	_	_	_	_
+4	можно	можно	ADV	_	Degree=Pos	_	_	_	_
+5	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	всегда	всегда	ADV	_	Degree=Pos	_	_	_	_
+8	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+9	что	что	PRON	_	Case=Acc	_	_	_	_
+10	вспомнить	вспомнить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	SpacesAfter=\r\n\r\n
+
